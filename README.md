@@ -1,3 +1,5 @@
 # Omnifood
-Omnifood is an AI-powered food subscription that will make you eat healthy again, 365 days per year. It's tailored to your personal tastes and nutritional needs
 
+Omnifood is a technology company focused on improving consumer well-being through a healthy diet. They offer a smart 365-days-per-year food subscription service that provides personalized meal plans tailored to individual tastes and nutritional needs. The AI algorithm creates a weekly meal plan based on user preferences and dietary requirements. Omnifood partners with restaurants to prepare and deliver the meals using local, fresh, and organic ingredients in reusable containers, making it eco-friendly. Customers can choose between one or two meals per day and have the flexibility to pause or cancel their subscription at any time. The service has received positive testimonials from satisfied customers and offers two pricing plans: Starter for $399 per month with one meal per day and Complete for $649 per month with two meals per day and access to the latest recipes. Omnifood was developed as a project from a Udemy course, showcasing the implementation of real-world responsive web design principles to create a user-friendly and accessible website using CSS.
+
+https://main--dynamic-babka-a53cad.netlify.app/
